@@ -37,8 +37,9 @@ public class DropDownListTest {
 			{
 			System.out.println(dropDrownList.get(i).getText()+"...."+dropDrownList.get(i).isSelected());
 			}
-			
+			System.out.println("this is git project");
 		}
+	
 		
 	}
 
